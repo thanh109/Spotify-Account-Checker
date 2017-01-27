@@ -1,0 +1,11 @@
+c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\bin\Debug\Spotify Account Checker.exe.config
+c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\bin\Debug\Spotify Account Checker.exe
+c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\bin\Debug\Spotify Account Checker.pdb
+c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\bin\Debug\WebDriver.dll
+c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\bin\Debug\WebDriver.xml
+c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\obj\Debug\Spotify Account Checker.csprojResolveAssemblyReference.cache
+c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\obj\Debug\Spotify_Account_Checker.Form1.resources
+c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\obj\Debug\Spotify_Account_Checker.Properties.Resources.resources
+c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\obj\Debug\Spotify Account Checker.csproj.GenerateResource.Cache
+c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\obj\Debug\Spotify Account Checker.exe
+c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\obj\Debug\Spotify Account Checker.pdb
