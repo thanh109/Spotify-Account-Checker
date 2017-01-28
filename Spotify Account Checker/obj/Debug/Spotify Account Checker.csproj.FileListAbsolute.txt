@@ -9,3 +9,14 @@ c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spo
 c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\obj\Debug\Spotify Account Checker.csproj.GenerateResource.Cache
 c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\obj\Debug\Spotify Account Checker.exe
 c:\users\mesin\documents\visual studio 2015\Projects\Spotify Account Checker\Spotify Account Checker\obj\Debug\Spotify Account Checker.pdb
+C:\Users\mesin\Documents\Git\Spotify-Account-Checker\Spotify Account Checker\bin\Debug\Spotify Account Checker.exe.config
+C:\Users\mesin\Documents\Git\Spotify-Account-Checker\Spotify Account Checker\obj\Debug\Spotify Account Checker.exe
+C:\Users\mesin\Documents\Git\Spotify-Account-Checker\Spotify Account Checker\obj\Debug\Spotify Account Checker.pdb
+C:\Users\mesin\Documents\Git\Spotify-Account-Checker\Spotify Account Checker\bin\Debug\Spotify Account Checker.exe
+C:\Users\mesin\Documents\Git\Spotify-Account-Checker\Spotify Account Checker\bin\Debug\Spotify Account Checker.pdb
+C:\Users\mesin\Documents\Git\Spotify-Account-Checker\Spotify Account Checker\bin\Debug\WebDriver.dll
+C:\Users\mesin\Documents\Git\Spotify-Account-Checker\Spotify Account Checker\bin\Debug\WebDriver.xml
+C:\Users\mesin\Documents\Git\Spotify-Account-Checker\Spotify Account Checker\obj\Debug\Spotify Account Checker.csprojResolveAssemblyReference.cache
+C:\Users\mesin\Documents\Git\Spotify-Account-Checker\Spotify Account Checker\obj\Debug\Spotify_Account_Checker.Form1.resources
+C:\Users\mesin\Documents\Git\Spotify-Account-Checker\Spotify Account Checker\obj\Debug\Spotify_Account_Checker.Properties.Resources.resources
+C:\Users\mesin\Documents\Git\Spotify-Account-Checker\Spotify Account Checker\obj\Debug\Spotify Account Checker.csproj.GenerateResource.Cache
